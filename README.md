@@ -1,4 +1,4 @@
-1. Copy the repo into your termial using "git clone https://github.com/brunoviera0/Lab5"
+1. Copy the repo into your termial using "git clone https://github.com/brunoviera0/Week-8-CosDistance.git"
 
 2. Make sure you have the g++ compiler installed
 
